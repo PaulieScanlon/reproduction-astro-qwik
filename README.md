@@ -1,2 +1,3 @@
 # reproduction-astro-qwik
-Reproduction repo for Qwik server-worker error
+
+Reproduction repo for `qwik-prefetch-service-worker` error
